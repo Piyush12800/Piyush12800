@@ -1,20 +1,19 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Piyush Kushwah</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack and AI developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **BCI**
+- 🔭 I’m currently working on **BCI, EHR**
 
 - 🌱 I’m currently learning **NLP, Signal Processing**
 
-- 👯 I’m looking to collaborate on **Deep Learning**
+- 👯 I’m looking to collaborate on **Deep Learning, Web Development**
 
-- 💬 Ask me about **Machine Learning , Deep Learning , MERN Stack**
+- 💬 Ask me about **Machine Learning , Deep Learning , MERN Stack, Next.js**
 
 - 📫 How to reach me **piyush.kushwah128@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ev3L1V1wJOTs1lbpt6iM9rY5k5IRkII7/view?usp=sharing](https://drive.google.com/file/d/1ev3L1V1wJOTs1lbpt6iM9rY5k5IRkII7/view?usp=sharing)
-
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1ev3L1V1wJOTs1lbpt6iM9rY5k5IRkII7/view?usp=sharing](https://drive.google.com/file/d/134x3HWEBaW3xuPRdGgy3qbtosBfH_nqq/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/piyushkushwah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyushkushwah" height="30" width="40" /></a>
